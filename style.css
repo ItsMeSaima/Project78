@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Arima+Madurai:wght@100&family=Dancing+Script&family=Josefin+Slab:wght@100&family=Magra&family=Milonga&family=Neucha&family=Nunito:wght@200&family=Parisienne&family=Tangerine&family=Updock&display=swap');
+
+body {
+  background: url(https://i.pinimg.com/originals/80/42/d5/8042d5b86ee7015157cab06b14c80e42.gif);
+font-family: nunito;
+}
+
+button{
+  font-size: 23px;
+  border-radius: 5px;
+  border-width: 2px;
+  background: white;
+}
+
+h1{
+  font-size: 40px;
+}
+
+#family_member_name{
+  font-size: 22px;
+}
+
+#family_member_image{
+  border-radius: 5px;
+  border-color: white;
+}
+  
